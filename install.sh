@@ -138,6 +138,7 @@ start() {
       popd
       
       echo $VERSION > $HOME/.c9/installed
+      echo hihi
       echo :Done.
     ;;
     
